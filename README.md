@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olomola Olugbenga Michael
 - 👀 I’m interested in the Data Analysis role
-- 🌱 I’m currently learning Advanced Data Analysis Packages such as SQL, Python, Tableau, Power BI, SPSS, etc.
+- 🌱 I’m currently learning Advanced Data Analysis Packages such as Excel, SQL, Python, Tableau, Power BI, SPSS, etc.
 - 💞️ I’m looking to collaborate with professional Data Analysts around the world
 - 📫 I can be reached at +2348134655395, olugbengaolomola@gmail@gmail.com, https://www.linkedin.com/in/olugbenga-olomola-334722190/
 - 😄 Pronouns: He
